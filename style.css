@@ -1,0 +1,146 @@
+.container-xs {
+  width: 1131px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 75px;
+}
+.img {
+  width: 1131px;
+  height: 400px;
+  background-image: url("retro-min.jpg");
+  background-size: contain;
+  background-repeat: repeat;
+  opacity: 0.8;
+}
+.ilaria {
+  font-size: 90px;
+  display: block;
+  margin: 0 auto;
+  font-weight: bold;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  padding-top: 185px;
+}
+
+img {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+
+.container {
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 75px;
+  font-family: "Rajdhani", sans-serif;
+
+}
+.contatti {
+  margin-top: 50px;
+  margin: 0 auto;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+ 
+}
+.titolo{
+  font-size: 60px;
+  font-weight: bold;
+  display: block;
+  margin: 0 auto; 
+  text-align: center;
+  font-family: "Rajdhani", sans-serif;
+  margin-bottom: 100px;
+}
+
+.sdraiati{
+  background-color: white;
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+p1,
+p2{
+  font-weight: bold;
+  line-height: 3;
+ 
+  text-align: justify;
+  
+}
+.immagine1{
+  width: 300px;
+  height: 250px;
+  display: inline;
+  float:right;
+  margin: 10px;
+ 
+}
+p3,
+p4{
+  margin-top: 50px;
+  line-height: 3;
+  font-weight: bold;
+}
+
+.immagine2{
+  margin-top: 50px;
+  width: 400px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.immagine3{
+  margin-top: 100px;
+  width: 400px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+}
+.art{
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: bold;
+}
+.mammocci{
+  width: 100px;
+  height: 100px;
+  display: inline;
+  float:left;
+  margin: 5px;
+  
+}
+.foto {
+  width: 300px;
+  height: 400px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  display: block;
+  margin: 0 auto;
+  
+  
+}
+p5{
+  display:block;
+  margin: 0 auto;
+  line-height: 2;
+  font-weight: bold;
+}
