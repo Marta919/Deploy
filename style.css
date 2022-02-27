@@ -113,6 +113,27 @@ p4{
   display: block;
   margin: 0 auto;
 }
+.rituals{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+.video{
+  
+  display: block;
+  margin: 0 auto;
+  color: white;
+  text-decoration: none;
+  
+  
+}
+.video:hover{
+  color: white;
+  text-decoration: underline;
+}
 .art{
   width: 800px;
   display: block;
