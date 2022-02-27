@@ -141,13 +141,18 @@ p4{
   color: white;
   text-decoration: underline;
 }
+h1{
+  font-size: 40px;
+  font-weight: bold;
+}
 .art{
   width: 800px;
   display: block;
   margin: 0 auto;
   font-family: "Rajdhani", sans-serif;
-  font-weight: bold;
+  
 }
+
 .mammocci{
   width: 100px;
   height: 100px;
