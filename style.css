@@ -182,3 +182,11 @@ p5{
 h7{
   font-size: 30px;
 }
+a{
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  text-decoration: underline;
+  color:black;
+}
