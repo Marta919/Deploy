@@ -182,11 +182,11 @@ p5{
 h7{
   font-size: 30px;
 }
-a{
+.email{
   text-decoration: none;
   color:black;
 }
-a:hover{
+.email:hover{
   text-decoration: underline;
   color:black;
 }
